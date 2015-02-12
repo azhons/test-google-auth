@@ -1,0 +1,9 @@
+{
+  "name": "test-google-auth",
+  "version": "1.0.0",
+  "description": "Testing of speakeasy Node.js module (Google Authentificator 2nd step verification)",
+  "dependencies": {    
+    "express": "^4.11.2",
+    "speakeasy": "^1.0.3"
+  }
+}
